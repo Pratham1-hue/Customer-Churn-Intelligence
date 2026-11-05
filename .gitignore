@@ -1,0 +1,4 @@
+*.pkl
+__pycache__/
+_shots.py
+.venv/
